@@ -9,8 +9,8 @@ ICON Changer
 File SIze Pumper
 Assembly changer
 Assembly cloner
-File Binder
 Hidden Start up
+File Binder
 Message Pop Up
 Delay Execution
 Random encryption Key
